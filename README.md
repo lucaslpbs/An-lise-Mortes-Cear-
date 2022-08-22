@@ -1,2 +1,2 @@
-# An-lise-Mortes-Cear-
+# Analise-Mortes-Ceara
 Análise de mortes no Ceará. 
